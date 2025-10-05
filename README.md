@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EE&width=435&lines=Ol%C3%A1+pessoal%2C+eu+sou+Lav%C3%ADnia+%3A)" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**laviniaaf/laviniaaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Computer Scientist and Software Resident in Data Science.
+- 🐍 Backend Developer with 1+ year of professional experience in Python.
+- 🌱 Always learning new technologies and staying up to date in the programming world.
+- 🔭 Constantly seeking new challenges and opportunities to apply my knowledge and grow as a developer.
 
-Here are some ideas to get you started:
+![GitHub User's stars](https://img.shields.io/github/stars/laviniaaf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>          
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="TensorFlow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+  <img align="center" alt="Keras" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>       
+  <img align="center" alt="Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="right" alt="Lavi-gif" height="130" width="150" src="https://cdn.discordapp.com/attachments/1032791939231272991/1248799597237768274/Design_sem_nome1.gif?ex=6664fac1&is=6663a941&hm=233d8efd1d10cc6ca9f34f337afdd04de158e3706c3c0131cb193229920fdc62&">        
+</div>
+
+##
+
+<div align="center">
+   <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lavinia-f-277b77270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
+<div align="center">
+  <a href=" ">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=laviniaaf&theme=radical&show_icons=true&include_all_commits=true"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaaf&layout=compact&langs_count=16&show_icons=true&theme=radical&include_all_commits=true"/>
+</div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
