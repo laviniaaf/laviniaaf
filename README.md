@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EE&width=435&lines=Ol%C3%A1+pessoal%2C+eu+sou+Lav%C3%ADnia+%3A)" alt="Typing SVG" /></a>
 </div>
 
-- 👩‍💻 Computer Scientist and Software Resident in Data Science.
+- 👩‍💻 Computer Science graduate and Junior Data Scientist
 - 🐍 Backend Developer with 1+ year of professional experience in Python.
 - 🌱 Always learning new technologies and staying up to date in the programming world.
 - 🔭 Constantly seeking new challenges and opportunities to apply my knowledge and grow as a developer.
