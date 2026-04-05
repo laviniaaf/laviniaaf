@@ -34,11 +34,8 @@
 
 ##
 
-<div align="center">
-  <a href=" ">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=laviniaaf&theme=radical&show_icons=true&include_all_commits=true"/>
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaaf&layout=compact&langs_count=16&show_icons=true&theme=radical&include_all_commits=true"/>
-</div>
+<div align="center"> but test everything; hold fast to what is good.</div>
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
